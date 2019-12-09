@@ -8,18 +8,18 @@ Requirements
 ============
 
 Our implementation and experiments use the following packages:
-os 
-numpy
-torch, nn (from torch), functional (from torch.nn), torch.utils.data 
-torchvision
-pandas Image (from PIL)
-pyplot (from matplotlib)
-nntools (given from ECE 285 @ UCSD)
+os   
+numpy  
+torch, nn (from torch), functional (from torch.nn), torch.utils.data   
+torchvision  
+pandas Image (from PIL)  
+pyplot (from matplotlib)  
+nntools (given from ECE 285 @ UCSD)  
 
 Code
 ====
 
-official_gatys.ipynb - runs the Gatys implementation (explained in Section 3.1) as well as the experiments (shown in Figure 3)
-Johnson_Implementation.ipynb - runs the Johnson implementation (explained in Section 3.2, shown in Figure 5) 
-Johnson Demo.ipynb - runs experiments of Johnson implementation with different architectures (explained in Section 3.2, shown in Figure 6)
+official_gatys.ipynb - runs the Gatys implementation (explained in Section 3.1) as well as the experiments (shown in Figure 3)  
+Johnson_Implementation.ipynb - runs the Johnson implementation (explained in Section 3.2, shown in Figure 5)   
+Johnson Demo.ipynb - runs experiments of Johnson implementation with different architectures (explained in Section 3.2, shown in Figure 6)  
 
