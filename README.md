@@ -22,4 +22,5 @@ Code
 official_gatys.ipynb - runs the Gatys implementation (explained in Section 3.1) as well as the experiments (shown in Figure 3)  
 Johnson_Implementation.ipynb - runs the Johnson implementation (explained in Section 3.2, shown in Figure 5)   
 Johnson Demo.ipynb - runs experiments of Johnson implementation with different architectures (explained in Section 3.2, shown in Figure 6)  
-
+Models - folder which contains all models we experimented with - DnCNN, UDnCNN, and DUDnCNN with D = 4, 8, 12 along with the original Johnson implementation with style weights of 10, 15, 20, 25, 30, 35   
+Archive - old code/commits for implementations
