@@ -8,7 +8,13 @@ Requirements
 ============
 
 Our implementation and experiments use the following packages:
-os, numpy, torch, nn (from torch), functional (from torch.nn), torch.utils.data, torchvision, pandas, Image (from PIL), pyplot (from matplotlib), nntools (given from ECE 285 @ UCSD)
+os 
+numpy
+torch, nn (from torch), functional (from torch.nn), torch.utils.data 
+torchvision
+pandas Image (from PIL)
+pyplot (from matplotlib)
+nntools (given from ECE 285 @ UCSD)
 
 Code
 ====
